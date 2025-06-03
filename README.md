@@ -16,7 +16,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudhanshupandey9197&show_icons=true&locale=en" alt="sudhanshupandey9197" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudhanshupandey9197&" alt="sudhanshupandey9197" /></p>## Hi there 👋
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudhanshupandey9197&" alt="sudhanshupandey9197" /></p>
 
 <!--
 **sudhanshupandey9197/sudhanshupandey9197** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
